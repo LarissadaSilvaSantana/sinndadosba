@@ -1,0 +1,7 @@
+{
+  "name": "sindados",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
